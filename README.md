@@ -7,4 +7,8 @@ More features coming soon....
 ![Interface](images/Interface.PNG)
 
 ## Original Frame
-![Original Frame](images/Original\ Frame.PNG)
+![Original Frame](images/Original_Frame.PNG)
+
+## Same Frame in Point Cloud
+![Transformed Pointcloud](images/Capture_Produced.PNG)
+
